@@ -1,0 +1,1 @@
+In this project we use the PIL library of python for image data visualization and handling
